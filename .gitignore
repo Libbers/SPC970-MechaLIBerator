@@ -1,0 +1,7 @@
+*.o
+*_irx.c
+obj/
+*.map
+*.elf
+releases/*.7z
+tests/
